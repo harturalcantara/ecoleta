@@ -27,10 +27,10 @@ Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rockets
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](expo)
 - [Node.js](nodejs)
 - [React](reactjs)
 - [React Native](rn)
+- [Expo](expo)
 - [TypeScript](typescript)
 
 ## 📝 Licença
