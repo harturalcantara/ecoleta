@@ -36,7 +36,7 @@ The following tools were used in the construction of the project:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/danilods/e-coleta
+$ git clone https://github.com/harturalcantara/ecoleta
 
 # Go into the repository
 $ cd ecoleta/backend
@@ -60,7 +60,7 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/danilods/e-coleta
+$ git clone https://github.com/harturalcantara/ecoleta
 
 # Go into the repository
 $ cd ecoleta/frontent
@@ -78,7 +78,7 @@ $ yarn start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/danilods/e-coleta
+$ git clone https://github.com/harturalcantara/ecoleta
 
 # Go into the repository
 $ cd ecoleta/mobile
